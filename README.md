@@ -9,4 +9,4 @@ Meu nome é Marcelo Paludetto
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você pode entrar em contato comigo
-! [](https://media1.tenor.com/m/gR-g_vw8boAAAAAC/baby-oooh.gif)
+![](https://media1.tenor.com/m/gR-g_vw8boAAAAAC/baby-oooh.gif)
